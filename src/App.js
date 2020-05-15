@@ -1,7 +1,7 @@
 import React, { useState, useEffect} from 'react';
 import "rbx/index.css";
 import { Container, Title } from 'rbx';
-import CourseList from './components/CourseList';
+// import CourseList from './components/CourseList';
 
 const meetsPat = /^ *((?:M|Tu|W|Th|F)+) +(\d\d?):(\d\d) *[ -] *(\d\d?):(\d\d) *$/;
 
