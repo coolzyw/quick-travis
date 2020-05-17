@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^7.14.4",
     "rbx": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-firebaseui": "^4.1.0",
     "react-scripts": "^3.4.1"
   },
   "scripts": {
